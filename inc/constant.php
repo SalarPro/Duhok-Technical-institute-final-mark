@@ -2,9 +2,9 @@
 date_default_timezone_set('asia/baghdad');
 
     $server   = "localhost";
-    $database = "test";
-    $username = "root";
-    $password = "";
+    $database = "datitca_student_marks";
+    $username = "datitca_user1";
+    $password = "6E4Vt3@psR6&F";
 
 
     if(!defined('DB_NAME'))
