@@ -4,6 +4,8 @@
 <head>
 
   <title>DPU</title>
+  
+  <link rel="icon" href="src/logo1.png" type="image/x-icon">
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
