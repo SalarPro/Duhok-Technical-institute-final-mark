@@ -21,22 +21,23 @@
 
   <div class="container">
 
-    <div class="row border border-primary align-items-center">
+    <div class="row  align-items-center  p-5">
 
 
-      <div class="col-3">
+      <div class="col-5">
 
-        <p class="h5">زانكویا پولیته‌كنیكی یا دهوك
-          په‌یمانگه‌ها ته‌كنیكی کارگێرى
+        <p class="h3">زانكویا پولیته‌كنیكی یا دهوك
+        <br>  
+        په‌یمانگه‌ها ته‌كنیكی کارگێرى
         </p>
 
       </div>
 
-      <div class="col-6"></div>
+      <div class="col-2"></div>
 
-      <div class="col-3">
+      <div class="col-5">
 
-        <img src="src/logo1.png" class="img-fluid" alt="Responsive image">
+        <img src="src/logo1.png" class="img-fluid" style="max-height: 150px;" alt="Responsive image">
 
       </div>
 
