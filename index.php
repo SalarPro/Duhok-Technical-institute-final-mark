@@ -1,3 +1,152 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+  <title>DPU</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <div class="row border border-primary align-items-center">
+
+
+      <div class="col-3">
+
+        <p class="h5">زانكویا پولیته‌كنیكی یا دهوك
+          په‌یمانگه‌ها ته‌كنیكی کارگێرى
+        </p>
+
+      </div>
+
+      <div class="col-6"></div>
+
+      <div class="col-3">
+
+        <img src="src/logo1.png" class="img-fluid" alt="Responsive image">
+
+      </div>
+
+    </div>
+
+
+
+
+    <div class="row m-5">
+      <div class="col-12">
+
+
+
+        <form class="modal-content animate" action="result.php" method="post">
+          <div class="card text-dark bg-light" style="">
+            <div class="card-body">
+              <div class="mb-3">
+                <div class="h1 text-center ">سپێدەهیا</div>
+
+              </div>
+              <div class="mb-3">
+                <label for="stdcode" class="form-label">کود</label>
+                <input require type="name" class="form-control" name="stdcode" placeholder="کود" required>
+              </div>
+              <div class="mb-3">
+                <label for="class_name" class="form-label">بەش</label>
+                <select class="form-select " name="class_name" aria-label="Default select example" required>
+                  <option value="" selected>بەشی هەلبژێرە</option>
+                  <option value="acc_2_mor">ژمێريارى</option>
+                  <option value="ba_2_mor">كارگێرى كار</option>
+                  <option value="hm_2_mor">ته‌ندروستى</option>
+                  <option value="mis_2_mor">سيسته‌مێ زانيارى</option>
+                  <option value="mt_2_mor">راگه‌هاندن</option>
+                </select>
+              </div>
+              <div class="mt-5 ml-5 mr-5 d-grid gap-2">
+                
+                <input class="btn btn-primary" type="submit" value="دیار کرنا ئەنجامان">
+              </div>
+
+
+            </div>
+          </div>
+
+        </form>
+        
+
+      </div>
+
+
+
+
+    </div>
+
+
+    <div class="row m-5">
+      <div class="col-12">
+
+        <div class="col-12">
+
+        <form class="modal-content animate" action="result.php" method="post">
+
+
+          <div class="card text-dark bg-light" style="">
+            <div class="card-body">
+              <div class="mb-3">
+                <div class="h1 text-center">ئێڤاران</div>
+
+              </div>
+              <div class="mb-3">
+                <label for="stdcode" class="form-label">کود</label>
+                <input type="name" class="form-control" name="stdcode" placeholder="کود" required>
+              </div>
+              <div class="mb-3">
+                <label for="class_name" class="form-label">بەش</label>
+                <select class="form-select" name="class_name" aria-label="Default select example" required>
+                  <option value="" selected>بەشی هەلبژێرە</option>
+                  <option value="acc_2_eve">ژمێريارى</option>
+                  <option value="ba_2_eve">كارگێرى كار</option>
+                  <option value="hm_2_eve">ته‌ندروستى</option>
+                  <option value="mis_2_eve">سيسته‌مێ زانيارى</option>
+                </select>
+              </div>
+
+              <div class="mt-5 ml-5 mr-5 d-grid gap-2">
+              <input class="btn btn-primary" type="submit" value="دیار کرنا ئەنجامان">
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+</form>
+
+      </div>
+
+
+
+
+    </div>
+
+
+  </div>
+
+</body>
+
+</html>
+
+
+
+
+<!--
 <!DOCTYPE html>
 <html>
 
@@ -7,15 +156,14 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel='stylesheet' type='text/css' href='css/login.css'>
-  <link rel='stylesheet' type='text/css' href='css/select_menu.css'>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
 
 
   <title>DPU</title>
- <!-- add icon link -->
- <link rel = "icon" href = 
- "src/logo1.png" 
-        type = "image/x-icon">
+  <link rel="icon" href="src/logo1.png" type="image/x-icon">
 
 </head>
 
@@ -42,7 +190,7 @@
   <div class="bg-image">
     <TABLE style='font-size:20px;color: WHITE;' align='center' cellpadding='10' width='80%'>
 
-      <tr  class='active' align='center'>
+      <tr class='active' align='center'>
         <TD width='50%'>
 
 
@@ -67,8 +215,9 @@
       <div class="center">
         <h2 style='font-size:50px;color: wHITE;' align='center'> ئەنجامێن قوناغا دووێ</h2>
 
-        <button onclick="document.getElementById('id01').style.display='block'" style="width:100%;  font-size: 30px;">دیارکرنا
-          ئەنجامان</button>
+        <div class="btn btn-primary" onclick="document.getElementById('id01').style.display='block'"
+          style="width:100%;  font-size: 30px;">دیارکرنا
+          ئەنجامان</div>
 
       </div>
     </div>
