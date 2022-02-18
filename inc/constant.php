@@ -1,10 +1,16 @@
 <?php            
 date_default_timezone_set('asia/baghdad');
 
+// $server   = "localhost";
+// $database = "datitca_student_marks";
+// $username = "datitca_user1";
+// $password = "6E4Vt3@psR6&F";
+
+
     $server   = "localhost";
-    $database = "datitca_student_marks";
-    $username = "datitca_user1";
-    $password = "6E4Vt3@psR6&F";
+    $database = "test";
+    $username = "root";
+    $password = "";
 
 
     if(!defined('DB_NAME'))

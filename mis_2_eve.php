@@ -131,6 +131,26 @@ date_default_timezone_set('asia/baghdad');
 </tr>
 
 
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Data_Base" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>قواعد البيانات - Data Base</B></TD>
+</tr>
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Analyze_Design_Information_Systems" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>تحليل و تصميم نظم المعلومات - Analyze & Design Information Systems</B></TD>
+</tr>
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Visual_Programming_C" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>البرمجة المرئية - Visual Programming (C#)</B></TD>
+</tr>
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Knowledge_Management" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>ادارة المعرفة - Knowledge Management</B></TD>
+</tr>
+
+
+
 <tr bgcolor='#FDEFFF' class='active' align='center'>
 <TD width='100%' colspan='2' STYLE='color: black;'><B>ئه‌ڤ به‌لگـه‌نامـه‌ ناهێتـه‌ بـكارئينـان وه‌ك به‌لگـه‌نامـه‌كا فه‌رمـى</B></TD>
 </tr>

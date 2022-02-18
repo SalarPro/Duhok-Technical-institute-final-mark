@@ -129,6 +129,26 @@ date_default_timezone_set('asia/baghdad');
 <TD bgcolor='#87AFFF' width='50%' ><B>تسويق خدمات صحية - Health Services Marketing</B></TD>
 </tr>
 
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Professional_Ethics" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>اخلاقيات المهنة - Professional Ethics</B></TD>
+</tr>
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Warehouse_Management" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>إدارة المخازن - Warehouse Management</B></TD>
+</tr>
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Health_Information_Technology" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>تقنية المعلومات الصحية - Health Information Technology</B></TD>
+</tr>
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Civil_Law" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>قانون الخدمة المدنية - Civil Law</B></TD>
+</tr>
+
 
 
 <tr bgcolor='#FDEFFF' class='active' align='center'>

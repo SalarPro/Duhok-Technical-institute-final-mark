@@ -136,6 +136,34 @@ date_default_timezone_set('asia/baghdad');
 
 
 
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Computer_Skills" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>مهارات الحاسبة - Computer Skills</B></TD>
+</tr>
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Electronic_Management" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>الإدارة الالكترونية - Electronic Management</B></TD>
+</tr>
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Organization_Theory" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>نظرية المنظمة - Organization Theory</B></TD>
+</tr>
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Crisis_Time_Management" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>إدارة الوقت و الازمات - Crisis & Time Management</B></TD>
+</tr>
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Materials_Management" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>إدارة المواد - Materials Management</B></TD>
+</tr>
+
+
+
 <tr bgcolor='#FDEFFF' class='active' align='center'>
 <TD width='100%' colspan='2' STYLE='color: black;'><B>ئه‌ڤ به‌لگـه‌نامـه‌ ناهێتـه‌ بـكارئينـان وه‌ك به‌لگـه‌نامـه‌كا فه‌رمـى</B></TD>
 </tr>

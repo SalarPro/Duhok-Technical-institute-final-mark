@@ -131,6 +131,37 @@ date_default_timezone_set('asia/baghdad');
 
 
 
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Accounting_Applications" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>التطبيقات المحاسبية - Accounting Applications</B></TD>
+</tr>
+
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Cost_Accounting" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>محاسبة تكاليف - Cost Accounting</B></TD>
+</tr>
+
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Firms_Accounting" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>محاسبة شركات - Firms Accounting</B></TD>
+</tr>
+
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Uniform_Accounting_System" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>نظام محاسبي موحد - Uniform Accounting System</B></TD>
+</tr>
+
+
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Column_2_Intermediate_Accounting_II" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>المحاسبة المتوسطة 2 - Intermediate Accounting II</B></TD>
+</tr>
+
+
+
 
 <tr bgcolor='#FDEFFF' class='active' align='center'>
 <TD width='100%' colspan='2' STYLE='color: black;'><B>ئه‌ڤ به‌لگـه‌نامـه‌ ناهێتـه‌ بـكارئينـان وه‌ك به‌لگـه‌نامـه‌كا فه‌رمـى</B></TD>

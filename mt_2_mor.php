@@ -136,6 +136,27 @@ date_default_timezone_set('asia/baghdad');
 </tr>
 
 
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Ethics_and_Media_Law" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>Ethics and Media Law - اخلاقيات و قوانين الاعلام</B></TD>
+</tr>
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Media_Sociology" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>Media Sociology - علم الاجتماع الاعلامي</B></TD>
+</tr>
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Press_Design" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>Press Design - التصميم الصحفي</B></TD>
+</tr>
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "New_Media" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>New Media - الاعلام الجديد</B></TD>
+</tr>
+<tr  class='active' align='center'>
+<TD bgcolor='#CCDDFF' width='50%' ><B>".$myrow[ "Announcing_Art" ]."</B></TD>
+<TD bgcolor='#87AFFF' width='50%' ><B>Announcing Art - فنون التقديم</B></TD>
+</tr>
+
 
 
 <tr bgcolor='#FDEFFF' class='active' align='center'>
